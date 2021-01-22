@@ -1,0 +1,1 @@
+document.getElementById("mya").onmouseenter = "this.style.color='red';";

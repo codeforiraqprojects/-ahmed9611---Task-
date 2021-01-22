@@ -1,0 +1,107 @@
+html{
+  direction:rtl;
+  min-width: 385px; 
+  height: auto;
+  
+}
+body,.container {
+  background-color: #2f3640;
+  background-repeat:no-repeat;
+  background-attachment: fixed;
+  display: block;
+  background-size: 100% 100%;
+  width: 100%;  
+  text-align: right;   
+  height: auto;   
+}
+.navb{
+  background-color:#95a5a6;
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+.myname{
+  background-image: url("../resized_images/5.jpg");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  height: 250px;    
+  text-align: center;
+  min-width: 385px;
+  text-align: center;
+  color: aliceblue;
+  font-size: 30px;
+  font-family: Andalus;
+  padding-top:  100px;
+  margin: auto;
+  min-width: 100%;
+}
+.myMar{
+  background-color:#95a5a6;
+  color: black;
+  height: 30px;
+  font-size: 20px;
+  min-width: 385px;
+} 
+#myjum{
+  color: aliceblue;
+  text-align: right;
+  padding: 10px;
+} 
+.myname1{
+  float:right;
+  text-align: right;      
+  color: aliceblue;
+  padding-top: 10px;
+  width: 100%;
+  min-width:50%; 
+  font-size: 30px;       
+}
+.name11{
+  text-align: center;
+  color: aliceblue;
+  font-size: 30px;
+  font-family: Andalus;
+  padding-top:  100px;
+  margin: auto;
+  min-width: 100%;
+}           
+.myul{
+  list-style-type: square ;
+  list-style-position: inside;
+  text-align: right; 
+  width: 100%;                   
+}    
+section{
+  width: 60%;
+  height: 50%;
+  margin: auto;
+  min-width: 379px;
+  min-height: 400px;
+  padding-bottom: 10px;
+} 
+.myFooter{
+  background-color: #95a5a6;
+  height: 100px;
+  width: auto;
+  font-size: 10px;
+  padding: 10px;
+}
+.myP1{
+  text-align: right;
+  width: 50%;
+  float: right
+}
+.myP2{
+  text-align: left;
+  width: 50%;
+  float: left;
+}
+
+a{
+  color: aliceblue;                   
+ }          
+.a1{
+  color: black;                   
+ }     
+.myAbout{
+  margin-top: 200px;
+}
